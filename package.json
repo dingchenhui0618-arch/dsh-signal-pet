@@ -1,6 +1,7 @@
 {
   "name": "dsh-signal-pet",
   "version": "0.1.0",
+  "engines": { "dsh": ">=0.2.1-rc.2 <0.3.0" },
   "description": "A status pet for DeepSeek Harness: a frame-wide companion that reacts to real session events — thinking, tool calls, errors, long-job completion — and doubles as the busy/error indicator you can actually see.",
   "type": "module",
   "main": "lib/index.js",
