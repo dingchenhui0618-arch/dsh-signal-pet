@@ -1,8 +1,13 @@
 # dsh-signal-pet
 
+[![CI](https://github.com/dingchenhui0618-arch/dsh-signal-pet/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/dingchenhui0618-arch/dsh-signal-pet/actions/workflows/ci.yml)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 一只住在界面角落的小宠物，它**读你真实的会话事件**：思考时动得更快，有工具在跑时拉出连线，出错时变红发抖，长任务做完时庆祝一下。
 
 A status pet for DeepSeek Harness. It reacts to the live event stream — thinking, tool calls, errors, long-job completion — and doubles as the busy/error indicator you can actually see at a glance.
+
+> 用着还行的话，点个 ⭐ 就够了——插件市场的「搜插件」按 GitHub star 排序，star 是这个插件能被人翻到的唯一杠杆。
 
 ## 它解决什么
 

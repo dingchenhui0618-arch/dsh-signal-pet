@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased]
+
+### 文档与工程
+
+- 新增 `SECURITY.md`：信任边界、事件流里哪些字段被记录、HTTP 面现状、已知限制与漏洞报告渠道。
+- 新增 `.github/workflows/ci.yml`：ubuntu + windows × node 22/24，跑 build、`lib/` 一致性、单测；`publish.yml` 未改动。
+- README 顶部加 CI / license badge 与 star 引导。
+
 ## 0.1.0
 
 - Frame-wide pet on the `shell.overlay` slot, driven by real harness events
